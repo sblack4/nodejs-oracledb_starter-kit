@@ -1,0 +1,30 @@
+{
+  "name": "nodejs-oracledb_starter-kit",
+  "version": "1.0.0",
+  "description": "create a microservice on oracle database with node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo test me bruh",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sblack4/nodejs-oracledb_starter-kit.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "oracle-database",
+    "oracledb"
+  ],
+  "author": "Steven Black <genseb7@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sblack4/nodejs-oracledb_starter-kit/issues"
+  },
+  "homepage": "https://github.com/sblack4/nodejs-oracledb_starter-kit#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4"
+  }
+}
